@@ -21,6 +21,7 @@ class BookCollectionViewCell: UICollectionViewCell {
         bookCoverImageView.image = data.bookCover!
         bookCoverImageView.contentMode = .scaleToFill
         bookCoverImageView.layer.cornerRadius = 6
+        bookCoverImageView.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMinYCorner]
 
 
 

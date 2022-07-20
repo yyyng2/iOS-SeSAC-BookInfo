@@ -59,7 +59,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uet-Gs-gAM">
-                                                    <rect key="frame" x="54" y="28" width="138" height="166"/>
+                                                    <rect key="frame" x="54" y="28" width="138" height="170"/>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Ol-Go-Tm7">
                                                     <rect key="frame" x="8" y="169" width="42" height="21"/>
@@ -83,7 +83,7 @@
                                                 <constraint firstItem="AeZ-My-Rbo" firstAttribute="top" secondItem="NA4-B5-vS1" secondAttribute="top" constant="8" id="TLs-LZ-LHi"/>
                                                 <constraint firstAttribute="trailing" secondItem="AeZ-My-Rbo" secondAttribute="trailing" constant="8" id="V2d-MR-QKo"/>
                                                 <constraint firstItem="CpQ-Gg-fAG" firstAttribute="leading" secondItem="NA4-B5-vS1" secondAttribute="leading" constant="8" id="Xiu-5i-nbp"/>
-                                                <constraint firstAttribute="bottom" secondItem="uet-Gs-gAM" secondAttribute="bottom" constant="4" id="gPs-oR-XY3"/>
+                                                <constraint firstAttribute="bottom" secondItem="uet-Gs-gAM" secondAttribute="bottom" id="gPs-oR-XY3"/>
                                                 <constraint firstItem="AeZ-My-Rbo" firstAttribute="leading" secondItem="NA4-B5-vS1" secondAttribute="leading" constant="8" id="gm0-it-KX7"/>
                                                 <constraint firstItem="uet-Gs-gAM" firstAttribute="top" secondItem="AeZ-My-Rbo" secondAttribute="bottom" id="jzn-DS-38M"/>
                                                 <constraint firstAttribute="trailing" secondItem="uet-Gs-gAM" secondAttribute="trailing" constant="4" id="odQ-O2-Va4"/>
